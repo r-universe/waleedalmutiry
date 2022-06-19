@@ -1,0 +1,10 @@
+[
+  {
+    "package": "EpiILM",
+    "oncran": true
+  },
+  {
+    "package": "EpiILMCT",
+    "oncran": true
+  }
+]
