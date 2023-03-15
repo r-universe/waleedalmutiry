@@ -1,10 +1,10 @@
 [
   {
-    "package": "EpiILMCT",
+    "package": "EpiILM",
     "oncran": true
   },
   {
-    "package": "EpiILM",
+    "package": "EpiILMCT",
     "oncran": true
   }
 ]
